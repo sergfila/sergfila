@@ -1,131 +1,124 @@
 <div align="center">
 
-<img src="assets/profile-banner.png" width="100%" alt="Sergey Filippov — developer profile banner">
+<img src="assets/profile-banner.png" width="100%" alt="Сергей Филиппов — профиль разработчика">
 
-# Sergey Filippov
+# Сергей Филиппов
 
-### Mobile & Full-stack Developer
+### Mobile & Full-stack разработчик
 
-**I build thoughtful applications and games — from product idea and architecture to backend, testing, deployment and release.**
+**Создаю продуманные приложения и игры — от идеи и архитектуры до бэкенда, тестирования, развёртывания и релиза.**
 
-[![Main project](https://img.shields.io/badge/MAIN_PROJECT-RUSSIAN_CHECKERS-F5B83D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergfila/russian-checkers-showcase)
-[![Project roadmap](https://img.shields.io/badge/PROJECT-ROADMAP-5865F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergfila/russian-checkers-showcase/blob/main/ROADMAP.md)
-[![Website](https://img.shields.io/badge/PROJECT-WEBSITE-24292F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://russkieshashki.ru)
+[![Главный проект](https://img.shields.io/badge/ГЛАВНЫЙ_ПРОЕКТ-РУССКИЕ_ШАШКИ-F5B83D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergfila/russian-checkers-showcase)
+[![Дорожная карта](https://img.shields.io/badge/ДОРОЖНАЯ-КАРТА-5865F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergfila/russian-checkers-showcase/blob/main/ROADMAP.md)
+[![Сайт проекта](https://img.shields.io/badge/САЙТ-ПРОЕКТА-24292F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://russkieshashki.ru)
 
 </div>
 
-## About me
+## Обо мне
 
-I enjoy turning ideas into complete products rather than stopping at isolated screens
-or prototypes. My work spans mobile UX, domain logic, realtime communication, backend
-services, databases, security, automated testing and production delivery.
+Мне нравится превращать идеи в законченные продукты, а не останавливаться на отдельных экранах или прототипах. В моей работе сочетаются мобильный UX, бизнес-логика, обмен данными в реальном времени, серверная разработка, базы данных, безопасность, автоматизированное тестирование и подготовка продукта к выпуску.
 
-Today I am building **Russian Checkers**, a multiplayer Android game designed around
-a simple principle: the game should respect the player. No ads, no pay-to-win mechanics
-and no artificial distractions — only fair play, good UX and reliable technology.
+Сейчас мой основной проект — **«Русские шашки»**, многопользовательская Android-игра, построенная вокруг простого принципа: игра должна уважать игрока. Без рекламы, pay-to-win механик и искусственных отвлечений — только честная игра, понятный интерфейс и надёжные технологии.
 
-My longer-term direction is to create more **human-first games and useful digital
-products**: board games, multiplayer experiences and approachable puzzle games that
-people can simply open and enjoy.
+В дальнейшем я хочу создавать больше **игр и полезных цифровых продуктов для людей**: настольные и логические игры, одиночные и многопользовательские проекты, которые можно просто открыть и получать удовольствие.
 
-## What I build
+## Что я разрабатываю
 
 <table>
 <tr>
 <td width="33%" align="center">
-<h3>📱 Mobile products</h3>
-<p>Cross-platform applications with thoughtful UX, secure local data and production-ready Android releases.</p>
+<h3>📱 Мобильные продукты</h3>
+<p>Кроссплатформенные приложения с продуманным UX, безопасным хранением данных и полноценными Android-релизами.</p>
 </td>
 <td width="33%" align="center">
-<h3>⚡ Realtime systems</h3>
-<p>Live multiplayer sessions, WebSocket synchronization, reconnection and server-authoritative state.</p>
+<h3>⚡ Системы реального времени</h3>
+<p>Многопользовательские сессии, WebSocket-синхронизация, переподключение и серверное управление состоянием.</p>
 </td>
 <td width="33%" align="center">
-<h3>🛡️ Reliable backends</h3>
-<p>Authentication, PostgreSQL, transactional business logic, observability and deployment.</p>
+<h3>🛡️ Надёжный бэкенд</h3>
+<p>Аутентификация, PostgreSQL, транзакционная бизнес-логика, мониторинг и развёртывание.</p>
 </td>
 </tr>
 </table>
 
-## Featured product
+## Главный проект
 
 <div align="center">
 
 <a href="https://github.com/sergfila/russian-checkers-showcase">
-  <img src="https://raw.githubusercontent.com/sergfila/russian-checkers-showcase/main/assets/showcase.jpg" width="100%" alt="Russian Checkers product showcase">
+  <img src="https://raw.githubusercontent.com/sergfila/russian-checkers-showcase/main/assets/showcase.jpg" width="100%" alt="Презентация проекта Русские шашки">
 </a>
 
-### Русские шашки · Russian Checkers
+### Русские шашки
 
-**A fair online checkers experience without ads, donations or paid advantages.**
+**Честная онлайн-игра в шашки без рекламы, донатов и платных преимуществ.**
 
 </div>
 
-The project brings together:
+Проект объединяет:
 
-- a React Native and Expo Android client;
-- a shared TypeScript rules engine;
-- realtime multiplayer through authenticated WebSocket connections;
-- a Node.js and Fastify server with PostgreSQL;
-- server-authoritative moves, clocks and Elo rating;
-- account security, PIN and biometric protection;
-- automated client, engine, server and database tests;
-- Docker-based infrastructure and a complete release workflow.
+- Android-клиент на React Native и Expo;
+- общий движок правил на TypeScript;
+- онлайн-матчи через защищённые WebSocket-соединения;
+- сервер на Node.js и Fastify с PostgreSQL;
+- серверную проверку ходов, контроль времени и рейтинг Elo;
+- защиту учётной записи, PIN-код и биометрию;
+- автоматические тесты клиента, игрового движка, сервера и базы данных;
+- Docker-инфраструктуру и полный процесс подготовки релиза.
 
-> The production source code remains private. The public
-> **[product showcase](https://github.com/sergfila/russian-checkers-showcase)** explains
-> the product, engineering decisions and development roadmap without exposing proprietary implementation.
+> Исходный код продукта остаётся закрытым. Публичная
+> **[презентация проекта](https://github.com/sergfila/russian-checkers-showcase)** рассказывает о продукте, технических решениях и планах развития, не раскрывая проприетарную реализацию.
 
-## Engineering focus
+## Инженерные приоритеты
 
-| Area | What I care about |
+| Направление | Что для меня важно |
 |---|---|
-| **Product engineering** | Moving from an idea to a useful, releasable product |
-| **Mobile development** | Clear interaction, platform capabilities and resilient client state |
-| **Backend development** | Predictable APIs, data integrity and secure authorization |
-| **Realtime architecture** | Synchronization, reconnection and server-authoritative workflows |
-| **Quality** | Automated tests, observability and deliberate release checks |
-| **Human-first design** | Products that respect attention and do not manipulate the user |
+| **Разработка продукта** | Довести идею до полезного и готового к выпуску решения |
+| **Мобильная разработка** | Понятное взаимодействие, возможности платформы и устойчивое состояние клиента |
+| **Серверная разработка** | Предсказуемые API, целостность данных и безопасная авторизация |
+| **Realtime-архитектура** | Синхронизация, переподключение и серверное управление игровыми процессами |
+| **Качество** | Автоматические тесты, наблюдаемость и осознанные проверки перед релизом |
+| **Человечный дизайн** | Продукты, которые уважают внимание пользователя и не манипулируют им |
 
-## Technology
+## Технологии
 
 <div align="center">
 
-### Mobile & Frontend
+### Мобильная и frontend-разработка
 
-[![Mobile skills](https://skillicons.dev/icons?i=ts,react,nextjs,html,css&theme=dark)](https://skillicons.dev)
+[![Технологии мобильной разработки](https://skillicons.dev/icons?i=ts,react,nextjs,html,css&theme=dark)](https://skillicons.dev)
 
 `React Native` · `Expo` · `TypeScript` · `React` · `Next.js`
 
-### Backend & Data
+### Backend и данные
 
-[![Backend skills](https://skillicons.dev/icons?i=nodejs,postgres&theme=dark)](https://skillicons.dev)
+[![Серверные технологии](https://skillicons.dev/icons?i=nodejs,postgres&theme=dark)](https://skillicons.dev)
 
 `Node.js` · `Fastify` · `REST` · `WebSocket` · `PostgreSQL`
 
-### Delivery & Quality
+### Развёртывание и качество
 
-[![Delivery skills](https://skillicons.dev/icons?i=docker,git,github,linux,jest&theme=dark)](https://skillicons.dev)
+[![Инструменты разработки](https://skillicons.dev/icons?i=docker,git,github,linux,jest&theme=dark)](https://skillicons.dev)
 
-`Docker` · `Git` · `Linux` · `Jest` · `E2E testing`
+`Docker` · `Git` · `Linux` · `Jest` · `E2E-тестирование`
 
 </div>
 
-## What comes next
+## Что дальше
 
-- continue improving Russian Checkers with real player feedback;
-- grow its social features, accessibility and platform reach;
-- explore more board, puzzle, single-player and multiplayer game ideas;
-- keep building products that are useful, honest and enjoyable to use.
+- улучшать «Русские шашки» на основе обратной связи реальных игроков;
+- развивать социальные возможности, доступность и поддержку новых платформ;
+- экспериментировать с настольными, логическими, одиночными и многопользовательскими играми;
+- продолжать создавать полезные, честные и приятные в использовании продукты.
 
-## GitHub activity
+## Активность на GitHub
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergfila&theme=github_dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergfila&theme=github">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergfila&theme=github" width="100%" alt="Sergey Filippov GitHub activity">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergfila&theme=github" width="100%" alt="Активность Сергея Филиппова на GitHub">
 </picture>
 
 </div>
@@ -134,8 +127,8 @@ The project brings together:
 
 <div align="center">
 
-### Build something useful. Make it reliable. Respect the person using it.
+### Создавать полезное. Делать надёжно. Уважать человека, который этим пользуется.
 
-[![Discuss Russian Checkers](https://img.shields.io/badge/PROJECT_FEEDBACK-support%40russkieshashki.ru-F5B83D?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:support@russkieshashki.ru?subject=Russian%20Checkers%20project)
+[![Обсудить проект](https://img.shields.io/badge/ОБРАТНАЯ_СВЯЗЬ-support%40russkieshashki.ru-F5B83D?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:support@russkieshashki.ru?subject=Предложение%20по%20проекту%20Русские%20шашки)
 
 </div>
