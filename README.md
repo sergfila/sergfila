@@ -58,14 +58,14 @@
 
 Честная онлайн-игра без рекламы, донатов и платных преимуществ.
 
-**🟡 Статус: в разработке** &nbsp; · &nbsp; 📱 Android &nbsp; · &nbsp; 🌐 Онлайн
+**🟢 Статус: выпущена** &nbsp; · &nbsp; 📱 Android &nbsp; · &nbsp; 🌐 Онлайн
 
 🚫 Без рекламы &nbsp; · &nbsp; 💛 Без донатов и платных преимуществ
 
-- **Готовим первый выпуск:** Android-версия 1.0.0 собрана и направлена в RuStore; публичный выпуск пока не подтверждён.
+- **Уже можно играть:** версия 1.0.0 доступна в RuStore.
 - **В игре:** рейтинг Elo и серверная проверка партий. Клиент — React Native и Expo, связь — защищённые WebSocket-соединения.
 
-**[♟️ Сайт игры](https://russkieshashki.ru)** &nbsp; · &nbsp; [🎨 Публичная презентация](https://github.com/sergfila/russian-checkers-showcase)
+**[▶ Скачать в RuStore](https://www.rustore.ru/catalog/app/com.sergfila.russiancheckers)** &nbsp; · &nbsp; [♟️ Сайт игры](https://russkieshashki.ru) &nbsp; · &nbsp; [🎨 Публичная презентация](https://github.com/sergfila/russian-checkers-showcase)
 
 ---
 
